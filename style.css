@@ -2,3 +2,7 @@ body {
     background-color: black;
     color: white;
 }
+h1 {
+    display: inline;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
